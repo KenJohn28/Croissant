@@ -1,20 +1,20 @@
 body {
-    background: #F8E8A6;
-    text-align: center;
+  background: #f8e8a6;
+  text-align: center;
 }
 h1 {
 }
 .links {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 .links a {
-    color: #088000;
-    margin: 10px;
+  color: #088000;
+  margin: 10px;
 }
 img {
-    display: block;
-    margin: 0 auto;
-    border-radius: 4px;
-    max-width: 500px;
+  max-width: 100%;
+  display: block;
+  border-radius: 10px;
+  margin: 30px auto;
 }
